@@ -5,21 +5,18 @@ In this project, We are studying the relationship between demographics and behav
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 
-### Core Assignment: D3 Dabbler (Required Assignment)
+
 
 ![image](https://user-images.githubusercontent.com/57304123/89097691-fb6c7b80-d395-11ea-9429-c106b3a23eae.png)
 
+### Some of the observable trends are:
+
+The Healthcare-Poverty plot suggests that the state poverty rate plays an influential role in people's ability to obtain better healthcare coverage.
+
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
-Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the `app.js` file of your homework directory—make sure you pull in the data from `data.csv` by using the `d3.csv` function. Your scatter plot should ultimately appear like the image at the top of this section.
 
-* Include state abbreviations in the circles.
 
-* Create and situate your axes and labels to the left and bottom of the chart.
-
-* Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
-
-- - -
 
 ### Bonus: Impress the Boss (Optional Assignment)
 
